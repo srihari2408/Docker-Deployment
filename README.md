@@ -6,3 +6,6 @@ This model requires the following steps:
 - Pickling the file
 - Creating the API using the Flask Web Framework
 - Testing the API using POST MAN
+- Creating an interface using FLASGGER
+- Installing Docker
+- 
